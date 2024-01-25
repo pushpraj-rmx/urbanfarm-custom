@@ -1,4 +1,4 @@
-
+<?php include 'includes/header.php'?>
     <main>
       <section
         class="swiper-container js-swiper-slider slideshow type2 full-width"
@@ -332,7 +332,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -388,7 +388,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -399,7 +399,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -456,7 +456,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -465,7 +465,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -521,7 +521,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -530,7 +530,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -587,7 +587,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -599,7 +599,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -655,7 +655,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -666,7 +666,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -723,7 +723,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -732,7 +732,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -788,7 +788,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -797,7 +797,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -854,7 +854,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -947,7 +947,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -1004,7 +1004,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -1013,7 +1013,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -1069,7 +1069,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -1078,7 +1078,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -1135,7 +1135,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -1147,7 +1147,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -1203,7 +1203,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -1214,7 +1214,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -1271,7 +1271,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -1280,7 +1280,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -1336,7 +1336,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -1345,7 +1345,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -1402,7 +1402,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -1414,7 +1414,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -1470,7 +1470,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -1562,7 +1562,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -1618,7 +1618,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -1627,7 +1627,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -1684,7 +1684,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -1696,7 +1696,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -1752,7 +1752,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -1763,7 +1763,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -1820,7 +1820,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -1829,7 +1829,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -1885,7 +1885,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -1894,7 +1894,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -1951,7 +1951,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -1963,7 +1963,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -2019,7 +2019,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -2030,7 +2030,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -2087,7 +2087,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -2177,7 +2177,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -2234,7 +2234,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -2246,7 +2246,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -2302,7 +2302,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -2313,7 +2313,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -2370,7 +2370,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -2379,7 +2379,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -2435,7 +2435,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -2444,7 +2444,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -2501,7 +2501,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -2513,7 +2513,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -2569,7 +2569,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -2580,7 +2580,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -2637,7 +2637,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -2646,7 +2646,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -2702,7 +2702,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -2949,7 +2949,7 @@
             <div class="swiper-wrapper">
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-4-1.jpg"
@@ -3005,7 +3005,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html"
+                    <a href="product1_simple.php"
                       >Cropped Faux Leather Jacket</a
                     >
                   </h6>
@@ -3016,7 +3016,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-5-1.jpg"
@@ -3073,7 +3073,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Calvin Shorts</a>
+                    <a href="product1_simple.php">Calvin Shorts</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$62</span>
@@ -3082,7 +3082,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-6-1.jpg"
@@ -3138,7 +3138,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Kirby T-Shirt</a>
+                    <a href="product1_simple.php">Kirby T-Shirt</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$17</span>
@@ -3147,7 +3147,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-7-1.jpg"
@@ -3204,7 +3204,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Cableknit Shawl</a>
+                    <a href="product1_simple.php">Cableknit Shawl</a>
                   </h6>
                   <div class="product-card__price d-flex align-items-center">
                     <span class="money price-old">$129</span>
@@ -3214,7 +3214,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-4-1.jpg"
@@ -3270,7 +3270,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html"
+                    <a href="product1_simple.php"
                       >Cropped Faux Leather Jacket</a
                     >
                   </h6>
@@ -3281,7 +3281,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-5-1.jpg"
@@ -3338,7 +3338,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Calvin Shorts</a>
+                    <a href="product1_simple.php">Calvin Shorts</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$62</span>
@@ -3347,7 +3347,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-6-1.jpg"
@@ -3403,7 +3403,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Kirby T-Shirt</a>
+                    <a href="product1_simple.php">Kirby T-Shirt</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$17</span>
@@ -3412,7 +3412,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-7-1.jpg"
@@ -3469,7 +3469,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Cableknit Shawl</a>
+                    <a href="product1_simple.php">Cableknit Shawl</a>
                   </h6>
                   <div class="product-card__price d-flex align-items-center">
                     <span class="money price-old">$129</span>
@@ -3479,7 +3479,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-4-1.jpg"
@@ -3535,7 +3535,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html"
+                    <a href="product1_simple.php"
                       >Cropped Faux Leather Jacket</a
                     >
                   </h6>
@@ -3546,7 +3546,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-5-1.jpg"
@@ -3603,7 +3603,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Calvin Shorts</a>
+                    <a href="product1_simple.php">Calvin Shorts</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$62</span>
@@ -3612,7 +3612,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-6-1.jpg"
@@ -3668,7 +3668,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Kirby T-Shirt</a>
+                    <a href="product1_simple.php">Kirby T-Shirt</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$17</span>
@@ -3677,7 +3677,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-7-1.jpg"
@@ -3734,7 +3734,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Cableknit Shawl</a>
+                    <a href="product1_simple.php">Cableknit Shawl</a>
                   </h6>
                   <div class="product-card__price d-flex align-items-center">
                     <span class="money price-old">$129</span>
@@ -3840,7 +3840,7 @@
                     >
                   </div>
                   <div class="blog-grid__item-title mb-0">
-                    <a href="blog_single.html"
+                    <a href="blog_single.php"
                       >Woman with good shoes is never be ugly place</a
                     >
                   </div>
@@ -3865,7 +3865,7 @@
                     >
                   </div>
                   <div class="blog-grid__item-title mb-0">
-                    <a href="blog_single.html"
+                    <a href="blog_single.php"
                       >What Freud Can Teach Us About Furniture</a
                     >
                   </div>
@@ -3890,7 +3890,7 @@
                     >
                   </div>
                   <div class="blog-grid__item-title mb-0">
-                    <a href="blog_single.html"
+                    <a href="blog_single.php"
                       >Habitant morbi tristique senectus</a
                     >
                   </div>
@@ -4041,7 +4041,7 @@
         <div class="row row-cols-lg-5 row-cols-2">
           <div class="footer-column footer-store-info col-12 mb-4 mb-lg-0">
             <div class="logo">
-              <a href="../index.html">
+              <a href="../index.php">
                 <img
                   src="./images/logo-white.png"
                   alt="Uomo"
@@ -4135,7 +4135,7 @@
             <h6 class="sub-menu__title text-uppercase">Company</h6>
             <ul class="sub-menu__list list-unstyled">
               <li class="sub-menu__item">
-                <a href="about.html" class="menu-link menu-link_us-s"
+                <a href="about.php" class="menu-link menu-link_us-s"
                   >About Us</a
                 >
               </li>
@@ -4146,12 +4146,12 @@
                 <a href="#" class="menu-link menu-link_us-s">Affiliates</a>
               </li>
               <li class="sub-menu__item">
-                <a href="blog_list1.html" class="menu-link menu-link_us-s"
+                <a href="blog_list1.php" class="menu-link menu-link_us-s"
                   >Blog</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="contact.html" class="menu-link menu-link_us-s"
+                <a href="contact.php" class="menu-link menu-link_us-s"
                   >Contact Us</a
                 >
               </li>
@@ -4162,23 +4162,23 @@
             <h6 class="sub-menu__title text-uppercase">Shop</h6>
             <ul class="sub-menu__list list-unstyled">
               <li class="sub-menu__item">
-                <a href="shop2.html" class="menu-link menu-link_us-s"
+                <a href="shop2.php" class="menu-link menu-link_us-s"
                   >New Arrivals</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="shop3.html" class="menu-link menu-link_us-s"
+                <a href="shop3.php" class="menu-link menu-link_us-s"
                   >Accessories</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="shop4.html" class="menu-link menu-link_us-s">Men</a>
+                <a href="shop4.php" class="menu-link menu-link_us-s">Men</a>
               </li>
               <li class="sub-menu__item">
-                <a href="shop5.html" class="menu-link menu-link_us-s">Women</a>
+                <a href="shop5.php" class="menu-link menu-link_us-s">Women</a>
               </li>
               <li class="sub-menu__item">
-                <a href="shop1.html" class="menu-link menu-link_us-s"
+                <a href="shop1.php" class="menu-link menu-link_us-s"
                   >Shop All</a
                 >
               </li>
@@ -4195,13 +4195,13 @@
               </li>
               <li class="sub-menu__item">
                 <a
-                  href="account_dashboard.html"
+                  href="account_dashboard.php"
                   class="menu-link menu-link_us-s"
                   >My Account</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="store_location.html" class="menu-link menu-link_us-s"
+                <a href="store_location.php" class="menu-link menu-link_us-s"
                   >Find a Store</a
                 >
               </li>
@@ -4209,7 +4209,7 @@
                 <a href="#" class="menu-link menu-link_us-s">Legal & Privacy</a>
               </li>
               <li class="sub-menu__item">
-                <a href="contact.html" class="menu-link menu-link_us-s"
+                <a href="contact.php" class="menu-link menu-link_us-s"
                   >Contact</a
                 >
               </li>
@@ -4270,7 +4270,7 @@
       <div class="row text-center">
         <div class="col-4">
           <a
-            href="../index.html"
+            href="../index.php"
             class="footer-mobile__link d-flex flex-column align-items-center"
           >
             <svg
@@ -4289,7 +4289,7 @@
 
         <div class="col-4">
           <a
-            href="../index.html"
+            href="../index.php"
             class="footer-mobile__link d-flex flex-column align-items-center"
           >
             <svg
@@ -4308,7 +4308,7 @@
 
         <div class="col-4">
           <a
-            href="../index.html"
+            href="../index.php"
             class="footer-mobile__link d-flex flex-column align-items-center"
           >
             <div class="position-relative">
@@ -4392,7 +4392,7 @@
                   >Remember me</label
                 >
               </div>
-              <a href="reset_password.html" class="btn-text ms-auto"
+              <a href="reset_password.php" class="btn-text ms-auto"
                 >Lost password?</a
               >
             </div>
@@ -4608,10 +4608,10 @@
           <h6 class="fs-base fw-medium">SUBTOTAL:</h6>
           <span class="cart-subtotal fw-medium">$176.00</span>
         </div>
-        <a href="shop_cart.html" class="btn btn-light mt-3 d-block"
+        <a href="shop_cart.php" class="btn btn-light mt-3 d-block"
           >View Cart</a
         >
-        <a href="shop_checkout.html" class="btn btn-primary mt-3 d-block"
+        <a href="shop_checkout.php" class="btn btn-primary mt-3 d-block"
           >Checkout</a
         >
       </div>
@@ -4887,7 +4887,7 @@
                             </li>
                             <li class="sub-menu__item">
                               <a
-                                href="shop3.html"
+                                href="shop3.php"
                                 class="menu-link menu-link_us-s"
                                 >Accessories</a
                               >
@@ -4988,7 +4988,7 @@
                             </li>
                             <li class="sub-menu__item">
                               <a
-                                href="shop3.html"
+                                href="shop3.php"
                                 class="menu-link menu-link_us-s"
                                 >Accessories</a
                               >
@@ -5074,7 +5074,7 @@
                             </li>
                             <li class="sub-menu__item">
                               <a
-                                href="shop3.html"
+                                href="shop3.php"
                                 class="menu-link menu-link_us-s"
                                 >Accessories</a
                               >

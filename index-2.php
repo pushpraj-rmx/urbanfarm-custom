@@ -21,7 +21,7 @@
         </a>
 
         <div class="logo">
-          <a href="../index.html">
+          <a href="../index.php">
             <img
               src="./images/logo.png"
               alt="Uomo"
@@ -57,7 +57,7 @@
       >
         <div class="container">
           <form
-            action="https://uomo-html.flexkitux.com/Demo2/search.html"
+            action="https://uomo-html.flexkitux.com/Demo2/search.php"
             method="GET"
             class="search-field position-relative mt-4 mb-3"
           >
@@ -130,110 +130,110 @@
                   <ul class="list-unstyled">
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo1/index.html"
+                        href="../Demo1/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 1</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="index.html" class="menu-link menu-link_us-s"
+                      <a href="index.php" class="menu-link menu-link_us-s"
                         >Home 2</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo3/index.html"
+                        href="../Demo3/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 3</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo4/index.html"
+                        href="../Demo4/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 4</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo5/index.html"
+                        href="../Demo5/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 5</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo6/index.html"
+                        href="../Demo6/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 6</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo7/index.html"
+                        href="../Demo7/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 7</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo8/index.html"
+                        href="../Demo8/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 8</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo9/index.html"
+                        href="../Demo9/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 9</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo10/index.html"
+                        href="../Demo10/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 10</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo11/index.html"
+                        href="../Demo11/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 11</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo12/index.html"
+                        href="../Demo12/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 12</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo13/index.html"
+                        href="../Demo13/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 13</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo14/index.html"
+                        href="../Demo14/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 14</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo15/index.html"
+                        href="../Demo15/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 15</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo16/index.html"
+                        href="../Demo16/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 16</a
                       >
@@ -301,57 +301,57 @@
                       >
                       <ul class="sub-menu__list list-unstyled">
                         <li class="sub-menu__item">
-                          <a href="shop1.html" class="menu-link menu-link_us-s"
+                          <a href="shop1.php" class="menu-link menu-link_us-s"
                             >Shop List V1</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop2.html" class="menu-link menu-link_us-s"
+                          <a href="shop2.php" class="menu-link menu-link_us-s"
                             >Shop List V2</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop3.html" class="menu-link menu-link_us-s"
+                          <a href="shop3.php" class="menu-link menu-link_us-s"
                             >Shop List V3</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop4.html" class="menu-link menu-link_us-s"
+                          <a href="shop4.php" class="menu-link menu-link_us-s"
                             >Shop List V4</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop5.html" class="menu-link menu-link_us-s"
+                          <a href="shop5.php" class="menu-link menu-link_us-s"
                             >Shop List V5</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop6.html" class="menu-link menu-link_us-s"
+                          <a href="shop6.php" class="menu-link menu-link_us-s"
                             >Shop List V6</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop7.html" class="menu-link menu-link_us-s"
+                          <a href="shop7.php" class="menu-link menu-link_us-s"
                             >Shop List V7</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop8.html" class="menu-link menu-link_us-s"
+                          <a href="shop8.php" class="menu-link menu-link_us-s"
                             >Shop List V8</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop9.html" class="menu-link menu-link_us-s"
+                          <a href="shop9.php" class="menu-link menu-link_us-s"
                             >Shop List V9</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop10.html" class="menu-link menu-link_us-s"
+                          <a href="shop10.php" class="menu-link menu-link_us-s"
                             >Shop Item Style</a
                           >
                         </li>
                         <li class="sub-menu__item">
-                          <a href="shop11.html" class="menu-link menu-link_us-s"
+                          <a href="shop11.php" class="menu-link menu-link_us-s"
                             >Horizontal Scroll</a
                           >
                         </li>
@@ -389,77 +389,77 @@
                       <ul class="sub-menu__list list-unstyled">
                         <li class="sub-menu__item">
                           <a
-                            href="product2_variable.html"
+                            href="product2_variable.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V1</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product7_v2.html"
+                            href="product7_v2.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V2</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product8_v3.html"
+                            href="product8_v3.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V3</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product9_v4.html"
+                            href="product9_v4.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V4</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product10_v5.html"
+                            href="product10_v5.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V5</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product11_v6.html"
+                            href="product11_v6.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V6</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product12_v7.html"
+                            href="product12_v7.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V7</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product13_v8.html"
+                            href="product13_v8.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V8</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product14_v9.html"
+                            href="product14_v9.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V9</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product15_v10.html"
+                            href="product15_v10.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V10</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product16_v11.html"
+                            href="product16_v11.php"
                             class="menu-link menu-link_us-s"
                             >Shop Detail V11</a
                           >
@@ -497,76 +497,76 @@
                       >
                       <ul class="sub-menu__list list-unstyled">
                         <li class="sub-menu__item">
-                          <a href="shop12.html" class="menu-link menu-link_us-s"
+                          <a href="shop12.php" class="menu-link menu-link_us-s"
                             >Collection Grid</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product1_simple.html"
+                            href="product1_simple.php"
                             class="menu-link menu-link_us-s"
                             >Simple Product</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product2_variable.html"
+                            href="product2_variable.php"
                             class="menu-link menu-link_us-s"
                             >Variable Product</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product3_external.html"
+                            href="product3_external.php"
                             class="menu-link menu-link_us-s"
                             >External Product</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product4_grouped.html"
+                            href="product4_grouped.php"
                             class="menu-link menu-link_us-s"
                             >Grouped Product</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product5_onsale.html"
+                            href="product5_onsale.php"
                             class="menu-link menu-link_us-s"
                             >On Sale</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="product6_outofstock.html"
+                            href="product6_outofstock.php"
                             class="menu-link menu-link_us-s"
                             >Out of Stock</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="shop_cart.html"
+                            href="shop_cart.php"
                             class="menu-link menu-link_us-s"
                             >Shopping Cart</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="shop_checkout.html"
+                            href="shop_checkout.php"
                             class="menu-link menu-link_us-s"
                             >Checkout</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="shop_order_complete.html"
+                            href="shop_order_complete.php"
                             class="menu-link menu-link_us-s"
                             >Order Complete</a
                           >
                         </li>
                         <li class="sub-menu__item">
                           <a
-                            href="shop_order_tracking.html"
+                            href="shop_order_tracking.php"
                             class="menu-link menu-link_us-s"
                             >Order Tracking</a
                           >
@@ -608,23 +608,23 @@
                   >
                   <ul class="list-unstyled">
                     <li class="sub-menu__item">
-                      <a href="blog_list1.html" class="menu-link menu-link_us-s"
+                      <a href="blog_list1.php" class="menu-link menu-link_us-s"
                         >Blog V1</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="blog_list2.html" class="menu-link menu-link_us-s"
+                      <a href="blog_list2.php" class="menu-link menu-link_us-s"
                         >Blog V2</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="blog_list3.html" class="menu-link menu-link_us-s"
+                      <a href="blog_list3.php" class="menu-link menu-link_us-s"
                         >Blog V3</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="blog_single.html"
+                        href="blog_single.php"
                         class="menu-link menu-link_us-s"
                         >Blog Detail</a
                       >
@@ -665,48 +665,48 @@
                   <ul class="list-unstyled">
                     <li class="sub-menu__item">
                       <a
-                        href="account_dashboard.html"
+                        href="account_dashboard.php"
                         class="menu-link menu-link_us-s"
                         >My Account</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="login_register.html"
+                        href="login_register.php"
                         class="menu-link menu-link_us-s"
                         >Login / Register</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="store_location.html"
+                        href="store_location.php"
                         class="menu-link menu-link_us-s"
                         >Store Locator</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="lookbook.html" class="menu-link menu-link_us-s"
+                      <a href="lookbook.php" class="menu-link menu-link_us-s"
                         >Lookbook</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="faq.html" class="menu-link menu-link_us-s"
+                      <a href="faq.php" class="menu-link menu-link_us-s"
                         >Faq</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="terms.html" class="menu-link menu-link_us-s"
+                      <a href="terms.php" class="menu-link menu-link_us-s"
                         >Terms</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="404.html" class="menu-link menu-link_us-s"
+                      <a href="404.php" class="menu-link menu-link_us-s"
                         >404 Error</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="coming_soon.html"
+                        href="coming_soon.php"
                         class="menu-link menu-link_us-s"
                         >Coming Soon</a
                       >
@@ -716,11 +716,11 @@
               </li>
 
               <li class="navigation__item">
-                <a href="about.html" class="navigation__link">About</a>
+                <a href="about.php" class="navigation__link">About</a>
               </li>
 
               <li class="navigation__item">
-                <a href="contact.html" class="navigation__link">Contact</a>
+                <a href="contact.php" class="navigation__link">Contact</a>
               </li>
             </ul>
           </div>
@@ -983,40 +983,40 @@
                   <ul class="sub-menu__list list-unstyled">
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo1/index.html"
+                        href="../Demo1/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 1</a
                       >
                     </li>
                     <li class="sub-menu__item">
-                      <a href="index.html" class="menu-link menu-link_us-s"
+                      <a href="index.php" class="menu-link menu-link_us-s"
                         >Home 2</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo3/index.html"
+                        href="../Demo3/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 3</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo4/index.html"
+                        href="../Demo4/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 4</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo5/index.html"
+                        href="../Demo5/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 5</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo6/index.html"
+                        href="../Demo6/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 6</a
                       >
@@ -1028,42 +1028,42 @@
                   <ul class="sub-menu__list list-unstyled">
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo7/index.html"
+                        href="../Demo7/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 7</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo8/index.html"
+                        href="../Demo8/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 8</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo9/index.html"
+                        href="../Demo9/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 9</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo10/index.html"
+                        href="../Demo10/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 10</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo11/index.html"
+                        href="../Demo11/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 11</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo12/index.html"
+                        href="../Demo12/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 12</a
                       >
@@ -1075,28 +1075,28 @@
                   <ul class="sub-menu__list list-unstyled">
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo13/index.html"
+                        href="../Demo13/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 13</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo14/index.html"
+                        href="../Demo14/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 14</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo15/index.html"
+                        href="../Demo15/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 15</a
                       >
                     </li>
                     <li class="sub-menu__item">
                       <a
-                        href="../Demo16/index.html"
+                        href="../Demo16/index.php"
                         class="menu-link menu-link_us-s"
                         >Home 16</a
                       >
@@ -1113,57 +1113,57 @@
                     <a href="#" class="sub-menu__title">Shop List</a>
                     <ul class="sub-menu__list list-unstyled">
                       <li class="sub-menu__item">
-                        <a href="shop1.html" class="menu-link menu-link_us-s"
+                        <a href="shop1.php" class="menu-link menu-link_us-s"
                           >Shop List V1</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop2.html" class="menu-link menu-link_us-s"
+                        <a href="shop2.php" class="menu-link menu-link_us-s"
                           >Shop List V2</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop3.html" class="menu-link menu-link_us-s"
+                        <a href="shop3.php" class="menu-link menu-link_us-s"
                           >Shop List V3</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop4.html" class="menu-link menu-link_us-s"
+                        <a href="shop4.php" class="menu-link menu-link_us-s"
                           >Shop List V4</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop5.html" class="menu-link menu-link_us-s"
+                        <a href="shop5.php" class="menu-link menu-link_us-s"
                           >Shop List V5</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop6.html" class="menu-link menu-link_us-s"
+                        <a href="shop6.php" class="menu-link menu-link_us-s"
                           >Shop List V6</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop7.html" class="menu-link menu-link_us-s"
+                        <a href="shop7.php" class="menu-link menu-link_us-s"
                           >Shop List V7</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop8.html" class="menu-link menu-link_us-s"
+                        <a href="shop8.php" class="menu-link menu-link_us-s"
                           >Shop List V8</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop9.html" class="menu-link menu-link_us-s"
+                        <a href="shop9.php" class="menu-link menu-link_us-s"
                           >Shop List V9</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop10.html" class="menu-link menu-link_us-s"
+                        <a href="shop10.php" class="menu-link menu-link_us-s"
                           >Shop Item Style</a
                         >
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop11.html" class="menu-link menu-link_us-s"
+                        <a href="shop11.php" class="menu-link menu-link_us-s"
                           >Horizontal Scroll</a
                         >
                       </li>
@@ -1175,77 +1175,77 @@
                     <ul class="sub-menu__list list-unstyled">
                       <li class="sub-menu__item">
                         <a
-                          href="product2_variable.html"
+                          href="product2_variable.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V1</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product7_v2.html"
+                          href="product7_v2.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V2</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product8_v3.html"
+                          href="product8_v3.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V3</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product9_v4.html"
+                          href="product9_v4.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V4</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product10_v5.html"
+                          href="product10_v5.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V5</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product11_v6.html"
+                          href="product11_v6.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V6</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product12_v7.html"
+                          href="product12_v7.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V7</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product13_v8.html"
+                          href="product13_v8.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V8</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product14_v9.html"
+                          href="product14_v9.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V9</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product15_v10.html"
+                          href="product15_v10.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V10</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product16_v11.html"
+                          href="product16_v11.php"
                           class="menu-link menu-link_us-s"
                           >Shop Detail V11</a
                         >
@@ -1257,76 +1257,76 @@
                     <a href="#" class="sub-menu__title">Other Pages</a>
                     <ul class="sub-menu__list list-unstyled">
                       <li class="sub-menu__item">
-                        <a href="shop12.html" class="menu-link menu-link_us-s"
+                        <a href="shop12.php" class="menu-link menu-link_us-s"
                           >Collection Grid</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product1_simple.html"
+                          href="product1_simple.php"
                           class="menu-link menu-link_us-s"
                           >Simple Product</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product2_variable.html"
+                          href="product2_variable.php"
                           class="menu-link menu-link_us-s"
                           >Variable Product</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product3_external.html"
+                          href="product3_external.php"
                           class="menu-link menu-link_us-s"
                           >External Product</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product4_grouped.html"
+                          href="product4_grouped.php"
                           class="menu-link menu-link_us-s"
                           >Grouped Product</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product5_onsale.html"
+                          href="product5_onsale.php"
                           class="menu-link menu-link_us-s"
                           >On Sale</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="product6_outofstock.html"
+                          href="product6_outofstock.php"
                           class="menu-link menu-link_us-s"
                           >Out of Stock</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="shop_cart.html"
+                          href="shop_cart.php"
                           class="menu-link menu-link_us-s"
                           >Shopping Cart</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="shop_checkout.html"
+                          href="shop_checkout.php"
                           class="menu-link menu-link_us-s"
                           >Checkout</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="shop_order_complete.html"
+                          href="shop_order_complete.php"
                           class="menu-link menu-link_us-s"
                           >Order Complete</a
                         >
                       </li>
                       <li class="sub-menu__item">
                         <a
-                          href="shop_order_tracking.html"
+                          href="shop_order_tracking.php"
                           class="menu-link menu-link_us-s"
                           >Order Tracking</a
                         >
@@ -1360,22 +1360,22 @@
               <a href="#" class="navigation__link">Blog</a>
               <ul class="default-menu list-unstyled">
                 <li class="sub-menu__item">
-                  <a href="blog_list1.html" class="menu-link menu-link_us-s"
+                  <a href="blog_list1.php" class="menu-link menu-link_us-s"
                     >Blog V1</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="blog_list2.html" class="menu-link menu-link_us-s"
+                  <a href="blog_list2.php" class="menu-link menu-link_us-s"
                     >Blog V2</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="blog_list3.html" class="menu-link menu-link_us-s"
+                  <a href="blog_list3.php" class="menu-link menu-link_us-s"
                     >Blog V3</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="blog_single.html" class="menu-link menu-link_us-s"
+                  <a href="blog_single.php" class="menu-link menu-link_us-s"
                     >Blog Detail</a
                   >
                 </li>
@@ -1386,57 +1386,57 @@
               <ul class="default-menu list-unstyled">
                 <li class="sub-menu__item">
                   <a
-                    href="account_dashboard.html"
+                    href="account_dashboard.php"
                     class="menu-link menu-link_us-s"
                     >My Account</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="login_register.html" class="menu-link menu-link_us-s"
+                  <a href="login_register.php" class="menu-link menu-link_us-s"
                     >Login / Register</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="store_location.html" class="menu-link menu-link_us-s"
+                  <a href="store_location.php" class="menu-link menu-link_us-s"
                     >Store Locator</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="lookbook.html" class="menu-link menu-link_us-s"
+                  <a href="lookbook.php" class="menu-link menu-link_us-s"
                     >Lookbook</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="faq.html" class="menu-link menu-link_us-s">Faq</a>
+                  <a href="faq.php" class="menu-link menu-link_us-s">Faq</a>
                 </li>
                 <li class="sub-menu__item">
-                  <a href="terms.html" class="menu-link menu-link_us-s"
+                  <a href="terms.php" class="menu-link menu-link_us-s"
                     >Terms</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="404.html" class="menu-link menu-link_us-s"
+                  <a href="404.php" class="menu-link menu-link_us-s"
                     >404 Error</a
                   >
                 </li>
                 <li class="sub-menu__item">
-                  <a href="coming_soon.html" class="menu-link menu-link_us-s"
+                  <a href="coming_soon.php" class="menu-link menu-link_us-s"
                     >Coming Soon</a
                   >
                 </li>
               </ul>
             </li>
             <li class="navigation__item">
-              <a href="about.html" class="navigation__link">About</a>
+              <a href="about.php" class="navigation__link">About</a>
             </li>
             <li class="navigation__item">
-              <a href="contact.html" class="navigation__link">Contact</a>
+              <a href="contact.php" class="navigation__link">Contact</a>
             </li>
           </ul>
         </nav>
 
         <div class="logo">
-          <a href="../index.html">
+          <a href="../index.php">
             <img
               src="./images/logo.png"
               alt="Uomo"
@@ -1465,7 +1465,7 @@
 
             <div class="search-popup js-hidden-content">
               <form
-                action="https://uomo-html.flexkitux.com/Demo2/search_result.html"
+                action="https://uomo-html.flexkitux.com/Demo2/search_result.php"
                 method="GET"
                 class="search-field container"
               >
@@ -1502,7 +1502,7 @@
                     <h6 class="sub-menu__title fs-base">Quicklinks</h6>
                     <ul class="sub-menu__list list-unstyled">
                       <li class="sub-menu__item">
-                        <a href="shop2.html" class="menu-link menu-link_us-s"
+                        <a href="shop2.php" class="menu-link menu-link_us-s"
                           >New Arrivals</a
                         >
                       </li>
@@ -1510,7 +1510,7 @@
                         <a href="#" class="menu-link menu-link_us-s">Dresses</a>
                       </li>
                       <li class="sub-menu__item">
-                        <a href="shop3.html" class="menu-link menu-link_us-s"
+                        <a href="shop3.php" class="menu-link menu-link_us-s"
                           >Accessories</a
                         >
                       </li>
@@ -1918,7 +1918,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -1974,7 +1974,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -1985,7 +1985,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -2042,7 +2042,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -2051,7 +2051,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -2107,7 +2107,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -2116,7 +2116,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -2173,7 +2173,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -2185,7 +2185,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -2241,7 +2241,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -2252,7 +2252,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -2309,7 +2309,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -2318,7 +2318,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -2374,7 +2374,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -2383,7 +2383,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -2440,7 +2440,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -2533,7 +2533,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -2590,7 +2590,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -2599,7 +2599,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -2655,7 +2655,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -2664,7 +2664,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -2721,7 +2721,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -2733,7 +2733,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -2789,7 +2789,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -2800,7 +2800,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -2857,7 +2857,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -2866,7 +2866,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -2922,7 +2922,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -2931,7 +2931,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -2988,7 +2988,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -3000,7 +3000,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -3056,7 +3056,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -3148,7 +3148,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -3204,7 +3204,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -3213,7 +3213,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -3270,7 +3270,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -3282,7 +3282,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -3338,7 +3338,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -3349,7 +3349,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -3406,7 +3406,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -3415,7 +3415,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -3471,7 +3471,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -3480,7 +3480,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -3537,7 +3537,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -3549,7 +3549,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -3605,7 +3605,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -3616,7 +3616,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -3673,7 +3673,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -3763,7 +3763,7 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -3820,7 +3820,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -3832,7 +3832,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -3888,7 +3888,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -3899,7 +3899,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -3956,7 +3956,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -3965,7 +3965,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -4021,7 +4021,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -4030,7 +4030,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-3-1.jpg"
@@ -4087,7 +4087,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Cableknit Shawl</a>
+                        <a href="product1_simple.php">Cableknit Shawl</a>
                       </h6>
                       <div
                         class="product-card__price d-flex align-items-center"
@@ -4099,7 +4099,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-0-1.jpg"
@@ -4155,7 +4155,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html"
+                        <a href="product1_simple.php"
                           >Cropped Faux Leather Jacket</a
                         >
                       </h6>
@@ -4166,7 +4166,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-1-1.jpg"
@@ -4223,7 +4223,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Calvin Shorts</a>
+                        <a href="product1_simple.php">Calvin Shorts</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$62</span>
@@ -4232,7 +4232,7 @@
                   </div>
                   <div class="swiper-slide product-card">
                     <div class="pc__img-wrapper">
-                      <a href="product1_simple.html">
+                      <a href="product1_simple.php">
                         <img
                           loading="lazy"
                           src="./images/home/demo2/product-2-1.jpg"
@@ -4288,7 +4288,7 @@
                     <div class="pc__info position-relative">
                       <p class="pc__category third-color">JEAN</p>
                       <h6 class="pc__title">
-                        <a href="product1_simple.html">Kirby T-Shirt</a>
+                        <a href="product1_simple.php">Kirby T-Shirt</a>
                       </h6>
                       <div class="product-card__price d-flex">
                         <span class="money price">$17</span>
@@ -4535,7 +4535,7 @@
             <div class="swiper-wrapper">
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-4-1.jpg"
@@ -4591,7 +4591,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html"
+                    <a href="product1_simple.php"
                       >Cropped Faux Leather Jacket</a
                     >
                   </h6>
@@ -4602,7 +4602,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-5-1.jpg"
@@ -4659,7 +4659,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Calvin Shorts</a>
+                    <a href="product1_simple.php">Calvin Shorts</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$62</span>
@@ -4668,7 +4668,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-6-1.jpg"
@@ -4724,7 +4724,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Kirby T-Shirt</a>
+                    <a href="product1_simple.php">Kirby T-Shirt</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$17</span>
@@ -4733,7 +4733,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-7-1.jpg"
@@ -4790,7 +4790,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Cableknit Shawl</a>
+                    <a href="product1_simple.php">Cableknit Shawl</a>
                   </h6>
                   <div class="product-card__price d-flex align-items-center">
                     <span class="money price-old">$129</span>
@@ -4800,7 +4800,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-4-1.jpg"
@@ -4856,7 +4856,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html"
+                    <a href="product1_simple.php"
                       >Cropped Faux Leather Jacket</a
                     >
                   </h6>
@@ -4867,7 +4867,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-5-1.jpg"
@@ -4924,7 +4924,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Calvin Shorts</a>
+                    <a href="product1_simple.php">Calvin Shorts</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$62</span>
@@ -4933,7 +4933,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-6-1.jpg"
@@ -4989,7 +4989,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Kirby T-Shirt</a>
+                    <a href="product1_simple.php">Kirby T-Shirt</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$17</span>
@@ -4998,7 +4998,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-7-1.jpg"
@@ -5055,7 +5055,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Cableknit Shawl</a>
+                    <a href="product1_simple.php">Cableknit Shawl</a>
                   </h6>
                   <div class="product-card__price d-flex align-items-center">
                     <span class="money price-old">$129</span>
@@ -5065,7 +5065,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-4-1.jpg"
@@ -5121,7 +5121,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html"
+                    <a href="product1_simple.php"
                       >Cropped Faux Leather Jacket</a
                     >
                   </h6>
@@ -5132,7 +5132,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-5-1.jpg"
@@ -5189,7 +5189,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Calvin Shorts</a>
+                    <a href="product1_simple.php">Calvin Shorts</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$62</span>
@@ -5198,7 +5198,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-6-1.jpg"
@@ -5254,7 +5254,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Kirby T-Shirt</a>
+                    <a href="product1_simple.php">Kirby T-Shirt</a>
                   </h6>
                   <div class="product-card__price d-flex">
                     <span class="money price">$17</span>
@@ -5263,7 +5263,7 @@
               </div>
               <div class="swiper-slide product-card">
                 <div class="pc__img-wrapper">
-                  <a href="product1_simple.html">
+                  <a href="product1_simple.php">
                     <img
                       loading="lazy"
                       src="./images/home/demo2/product-7-1.jpg"
@@ -5320,7 +5320,7 @@
                 <div class="pc__info position-relative">
                   <p class="pc__category third-color">JEAN</p>
                   <h6 class="pc__title">
-                    <a href="product1_simple.html">Cableknit Shawl</a>
+                    <a href="product1_simple.php">Cableknit Shawl</a>
                   </h6>
                   <div class="product-card__price d-flex align-items-center">
                     <span class="money price-old">$129</span>
@@ -5426,7 +5426,7 @@
                     >
                   </div>
                   <div class="blog-grid__item-title mb-0">
-                    <a href="blog_single.html"
+                    <a href="blog_single.php"
                       >Woman with good shoes is never be ugly place</a
                     >
                   </div>
@@ -5451,7 +5451,7 @@
                     >
                   </div>
                   <div class="blog-grid__item-title mb-0">
-                    <a href="blog_single.html"
+                    <a href="blog_single.php"
                       >What Freud Can Teach Us About Furniture</a
                     >
                   </div>
@@ -5476,7 +5476,7 @@
                     >
                   </div>
                   <div class="blog-grid__item-title mb-0">
-                    <a href="blog_single.html"
+                    <a href="blog_single.php"
                       >Habitant morbi tristique senectus</a
                     >
                   </div>
@@ -5627,7 +5627,7 @@
         <div class="row row-cols-lg-5 row-cols-2">
           <div class="footer-column footer-store-info col-12 mb-4 mb-lg-0">
             <div class="logo">
-              <a href="../index.html">
+              <a href="../index.php">
                 <img
                   src="./images/logo-white.png"
                   alt="Uomo"
@@ -5721,7 +5721,7 @@
             <h6 class="sub-menu__title text-uppercase">Company</h6>
             <ul class="sub-menu__list list-unstyled">
               <li class="sub-menu__item">
-                <a href="about.html" class="menu-link menu-link_us-s"
+                <a href="about.php" class="menu-link menu-link_us-s"
                   >About Us</a
                 >
               </li>
@@ -5732,12 +5732,12 @@
                 <a href="#" class="menu-link menu-link_us-s">Affiliates</a>
               </li>
               <li class="sub-menu__item">
-                <a href="blog_list1.html" class="menu-link menu-link_us-s"
+                <a href="blog_list1.php" class="menu-link menu-link_us-s"
                   >Blog</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="contact.html" class="menu-link menu-link_us-s"
+                <a href="contact.php" class="menu-link menu-link_us-s"
                   >Contact Us</a
                 >
               </li>
@@ -5748,23 +5748,23 @@
             <h6 class="sub-menu__title text-uppercase">Shop</h6>
             <ul class="sub-menu__list list-unstyled">
               <li class="sub-menu__item">
-                <a href="shop2.html" class="menu-link menu-link_us-s"
+                <a href="shop2.php" class="menu-link menu-link_us-s"
                   >New Arrivals</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="shop3.html" class="menu-link menu-link_us-s"
+                <a href="shop3.php" class="menu-link menu-link_us-s"
                   >Accessories</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="shop4.html" class="menu-link menu-link_us-s">Men</a>
+                <a href="shop4.php" class="menu-link menu-link_us-s">Men</a>
               </li>
               <li class="sub-menu__item">
-                <a href="shop5.html" class="menu-link menu-link_us-s">Women</a>
+                <a href="shop5.php" class="menu-link menu-link_us-s">Women</a>
               </li>
               <li class="sub-menu__item">
-                <a href="shop1.html" class="menu-link menu-link_us-s"
+                <a href="shop1.php" class="menu-link menu-link_us-s"
                   >Shop All</a
                 >
               </li>
@@ -5781,13 +5781,13 @@
               </li>
               <li class="sub-menu__item">
                 <a
-                  href="account_dashboard.html"
+                  href="account_dashboard.php"
                   class="menu-link menu-link_us-s"
                   >My Account</a
                 >
               </li>
               <li class="sub-menu__item">
-                <a href="store_location.html" class="menu-link menu-link_us-s"
+                <a href="store_location.php" class="menu-link menu-link_us-s"
                   >Find a Store</a
                 >
               </li>
@@ -5795,7 +5795,7 @@
                 <a href="#" class="menu-link menu-link_us-s">Legal & Privacy</a>
               </li>
               <li class="sub-menu__item">
-                <a href="contact.html" class="menu-link menu-link_us-s"
+                <a href="contact.php" class="menu-link menu-link_us-s"
                   >Contact</a
                 >
               </li>
@@ -5856,7 +5856,7 @@
       <div class="row text-center">
         <div class="col-4">
           <a
-            href="../index.html"
+            href="../index.php"
             class="footer-mobile__link d-flex flex-column align-items-center"
           >
             <svg
@@ -5875,7 +5875,7 @@
 
         <div class="col-4">
           <a
-            href="../index.html"
+            href="../index.php"
             class="footer-mobile__link d-flex flex-column align-items-center"
           >
             <svg
@@ -5894,7 +5894,7 @@
 
         <div class="col-4">
           <a
-            href="../index.html"
+            href="../index.php"
             class="footer-mobile__link d-flex flex-column align-items-center"
           >
             <div class="position-relative">
@@ -5978,7 +5978,7 @@
                   >Remember me</label
                 >
               </div>
-              <a href="reset_password.html" class="btn-text ms-auto"
+              <a href="reset_password.php" class="btn-text ms-auto"
                 >Lost password?</a
               >
             </div>
@@ -6194,10 +6194,10 @@
           <h6 class="fs-base fw-medium">SUBTOTAL:</h6>
           <span class="cart-subtotal fw-medium">$176.00</span>
         </div>
-        <a href="shop_cart.html" class="btn btn-light mt-3 d-block"
+        <a href="shop_cart.php" class="btn btn-light mt-3 d-block"
           >View Cart</a
         >
-        <a href="shop_checkout.html" class="btn btn-primary mt-3 d-block"
+        <a href="shop_checkout.php" class="btn btn-primary mt-3 d-block"
           >Checkout</a
         >
       </div>
@@ -6473,7 +6473,7 @@
                             </li>
                             <li class="sub-menu__item">
                               <a
-                                href="shop3.html"
+                                href="shop3.php"
                                 class="menu-link menu-link_us-s"
                                 >Accessories</a
                               >
@@ -6574,7 +6574,7 @@
                             </li>
                             <li class="sub-menu__item">
                               <a
-                                href="shop3.html"
+                                href="shop3.php"
                                 class="menu-link menu-link_us-s"
                                 >Accessories</a
                               >
@@ -6660,7 +6660,7 @@
                             </li>
                             <li class="sub-menu__item">
                               <a
-                                href="shop3.html"
+                                href="shop3.php"
                                 class="menu-link menu-link_us-s"
                                 >Accessories</a
                               >
