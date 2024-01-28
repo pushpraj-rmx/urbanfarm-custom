@@ -226,13 +226,13 @@
         <div class="overflow-hidden">
           <ul class="navigation__list list-unstyled position-relative">
             <li class="navigation__item">
-              <a href="#" class="navigation__link js-nav-right d-flex align-items-center">Home<svg class="ms-auto" width="7" height="11" viewBox="0 0 7 11" xmlns="http://www.w3.org/2000/svg">
+              <a href="#" class="navigation__link js-nav-right d-flex align-items-center">About<svg class="ms-auto" width="7" height="11" viewBox="0 0 7 11" xmlns="http://www.w3.org/2000/svg">
                   <use href="#icon_next_sm" />
                 </svg></a>
               <div class="sub-menu position-absolute top-0 start-100 w-100 d-none">
                 <a href="#" class="navigation__link js-nav-left d-flex align-items-center border-bottom mb-2"><svg class="me-2" width="7" height="11" viewBox="0 0 7 11" xmlns="http://www.w3.org/2000/svg">
                     <use href="#icon_prev_sm" />
-                  </svg>Home</a>
+                  </svg>About</a>
 
               </div>
             </li>
@@ -384,7 +384,7 @@
   </div>
 
   <header id="header" class="header header-fullwidth header-transparent-bg">
-    <div class="header-top d-flex bg-black color-white align-items-center">
+    <div class="header-top d-flex bg-green color-white align-items-center">
       <ul class="list-unstyled d-flex flex-1 gap-3 m-0">
         <li>
           <a href="#" class="menu-link menu-link_us-s color-white">Shipping</a>
@@ -455,7 +455,7 @@
 
         <ul class="navigation__list list-unstyled d-flex">
           <li class="navigation__item">
-            <a href="#" class="navigation__link">Home</a>
+            <a href="#" class="navigation__link">About</a>
             <!-- <div class="box-menu" style="width: 600px">
                 <div class="col pe-4">
                   <ul class="sub-menu__list list-unstyled">
@@ -588,34 +588,34 @@
             <div class="mega-menu">
               <div class="container d-flex">
                 <div class="col pe-4">
-                  <a href="#" class="sub-menu__title">Shop List</a>
+                  <a href="#" class="sub-menu__title">Hydroponic <br> Accessories</a>
                   <ul class="sub-menu__list list-unstyled">
                     <li class="sub-menu__item">
-                      <a href="shop1.php" class="menu-link menu-link_us-s">Shop List V1</a>
+                      <a href="shop1.php" class="menu-link menu-link_us-s">Products List V1</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop2.php" class="menu-link menu-link_us-s">Shop List V2</a>
+                      <a href="shop2.php" class="menu-link menu-link_us-s">Products List V2</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop3.php" class="menu-link menu-link_us-s">Shop List V3</a>
+                      <a href="shop3.php" class="menu-link menu-link_us-s">Products List V3</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop4.php" class="menu-link menu-link_us-s">Shop List V4</a>
+                      <a href="shop4.php" class="menu-link menu-link_us-s">Products List V4</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop5.php" class="menu-link menu-link_us-s">Shop List V5</a>
+                      <a href="shop5.php" class="menu-link menu-link_us-s">Products List V5</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop6.php" class="menu-link menu-link_us-s">Shop List V6</a>
+                      <a href="shop6.php" class="menu-link menu-link_us-s">Products List V6</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop7.php" class="menu-link menu-link_us-s">Shop List V7</a>
+                      <a href="shop7.php" class="menu-link menu-link_us-s">Products List V7</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop8.php" class="menu-link menu-link_us-s">Shop List V8</a>
+                      <a href="shop8.php" class="menu-link menu-link_us-s">Products List V8</a>
                     </li>
                     <li class="sub-menu__item">
-                      <a href="shop9.php" class="menu-link menu-link_us-s">Shop List V9</a>
+                      <a href="shop9.php" class="menu-link menu-link_us-s">Products List V9</a>
                     </li>
                     <li class="sub-menu__item">
                       <a href="shop10.php" class="menu-link menu-link_us-s">Shop Item Style</a>
@@ -627,7 +627,7 @@
                 </div>
 
                 <div class="col pe-4">
-                  <a href="#" class="sub-menu__title">Shop Detail</a>
+                  <a href="#" class="sub-menu__title">Hydroponic <br> Growing Systems</a>
                   <ul class="sub-menu__list list-unstyled">
                     <li class="sub-menu__item">
                       <a href="product2_variable.php" class="menu-link menu-link_us-s">Shop Detail V1</a>

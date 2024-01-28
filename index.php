@@ -15,13 +15,155 @@
       }'>
     <div class="swiper-wrapper">
       <div class="swiper-slide">
+        <!-- <div class="container"> -->
+        <!-- <div class="row">
+          <div class="col-6">
+          </div>
+          <div class="col-6">
+
+            <div class="noo-atributes">
+              <img width="494" height="618" src="images/image-01.png" alt="" />
+              <div class="noo-atributes-item">
+                <div class="noo-atributes-hover">
+                  <div class="noo-atributes-content">
+                    <strong>12 Green Apples</strong>
+                    <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                  </div>
+                </div>
+                <span class="eff">
+                  <span class="eff1"></span>
+                  <span class="eff2"></span>
+                  <img width="64" height="64" src="images/organicfood-1.png" alt="" />
+                </span>
+              </div>
+              <div class="noo-atributes-item noo-atributes-item2 orange">
+                <div class="noo-atributes-hover">
+                  <div class="noo-atributes-content">
+                    <strong>10 Orange Apples</strong>
+                    <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                  </div>
+                </div>
+                <span class="eff">
+                  <span class="eff1"></span>
+                  <span class="eff2"></span>
+                  <img width="53" height="53" src="images/organicfood-2.png" alt="" />
+                </span>
+              </div>
+              <div class="noo-atributes-item noo-atributes-item4 orange">
+                <div class="noo-atributes-hover">
+                  <div class="noo-atributes-content">
+                    <strong>15 Pear Apples</strong>
+                    <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                  </div>
+                </div>
+                <span class="eff">
+                  <span class="eff1"></span>
+                  <span class="eff2"></span>
+                  <img width="53" height="53" src="images/organicfood-3.png" alt="" />
+                </span>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+
         <div class="overflow-hidden position-relative h-100">
           <div class="slideshow-bg">
-            <img loading="lazy" src="./images/home/demo2/slider1.jpg" width="1903" height="896" alt="Pattern" class="slideshow-bg__img object-fit-cover" style="object-position: 80% center" />
+            <img loading="lazy" src="./images/home/demo2/slider1.png" width="1903" height="896" alt="Pattern" class="slideshow-bg__img object-fit-cover" style="object-position: 80% center" />
           </div>
-          <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
+          <div class="tool-tip-container slideshow-text container position-absolute start-50 top-50 translate-middle">
+            <div class="row">
+              <div class="col-6">
+              </div>
+              <div class="col-6">
+
+                <div class="noo-atributes">
+                  <!-- <img width="494" height="618" src="images/image-01.png" alt="" /> -->
+                  <div class="noo-atributes-item noo-atributes-item1">
+                    <div class="noo-atributes-hover">
+                      <div class="noo-atributes-content">
+                        <strong>12 Green Apples</strong>
+                        <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                      </div>
+                    </div>
+                    <span class="eff">
+                      <span class="eff1"></span>
+                      <span class="eff2"></span>
+                      <img width="64" height="64" src="images/organicfood-1.png" alt="" />
+                    </span>
+                  </div>
+                  <div class="noo-atributes-item noo-atributes-item2">
+                    <div class="noo-atributes-hover">
+                      <div class="noo-atributes-content">
+                        <strong>12 Green Apples</strong>
+                        <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                      </div>
+                    </div>
+                    <span class="eff">
+                      <span class="eff1"></span>
+                      <span class="eff2"></span>
+                      <img width="64" height="64" src="images/organicfood-1.png" alt="" />
+                    </span>
+                  </div>
+                  <div class="noo-atributes-item noo-atributes-item3 orange">
+                    <div class="noo-atributes-hover">
+                      <div class="noo-atributes-content">
+                        <strong>12 Green Apples</strong>
+                        <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                      </div>
+                    </div>
+                    <span class="eff">
+                      <span class="eff1"></span>
+                      <span class="eff2"></span>
+                      <img width="64" height="64" src="images/organicfood-1.png" alt="" />
+                    </span>
+                  </div>
+                  <div class="noo-atributes-item noo-atributes-item4 orange">
+                    <div class="noo-atributes-hover">
+                      <div class="noo-atributes-content">
+                        <strong>10 Orange Apples</strong>
+                        <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                      </div>
+                    </div>
+                    <span class="eff">
+                      <span class="eff1"></span>
+                      <span class="eff2"></span>
+                      <img width="53" height="53" src="images/organicfood-2.png" alt="" />
+                    </span>
+                  </div>
+                  <div class="noo-atributes-item noo-atributes-item5 orange">
+                    <div class="noo-atributes-hover">
+                      <div class="noo-atributes-content">
+                        <strong>15 Pear Apples</strong>
+                        <p>Maecenas tristique gravida, odio et sagi ttis justo</p>
+                      </div>
+                    </div>
+                    <span class="eff">
+                      <span class="eff1"></span>
+                      <span class="eff2"></span>
+                      <img width="53" height="53" src="images/organicfood-3.png" alt="" />
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <h6 class="text_dash text-shadow-white text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
               Summer 2023
+            </h6>
+            <h2 class="text-uppercase text-shadow-white h1 fw-bold mb-0 animate animate_fade animate_btt animate_delay-4">
+              Hydroponic
+            </h2>
+            <p class="fs-6 mb-4 pb-2 text-uppercase text-shadow-white animate animate_fade animate_btt animate_delay-5">
+              Limited time offer - up to 60% off & free shipping
+            </p>
+            <button class="btn btn-outline-primary border-0 fs-base text-uppercase fw-medium animate animate_fade animate_btt animate_delay-7 btn-55">
+              <span class="text_dash_half">Discover Now</span>
+            </button>
+          </div>
+          <!-- <div class="slideshow-text container position-absolute start-70 top-10 translate-middle">
+            <h6 class="text_dash text-shadow-white text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
+              I am your tesst
             </h6>
             <h2 class="text-uppercase text-shadow-white h1 fw-bold mb-0 animate animate_fade animate_btt animate_delay-4">
               Hello New Season
@@ -32,10 +174,10 @@
             <button class="btn btn-outline-primary border-0 fs-base text-uppercase fw-medium animate animate_fade animate_btt animate_delay-7 btn-55">
               <span class="text_dash_half">Discover Now</span>
             </button>
-          </div>
+          </div> -->
         </div>
       </div>
-      <div class="swiper-slide">
+      <!-- <div class="swiper-slide">
         <div class="overflow-hidden position-relative h-100">
           <div class="slideshow-bg">
             <img loading="lazy" src="./images/home/demo2/slider2.jpg" width="1903" height="896" alt="Pattern" class="slideshow-bg__img object-fit-cover" style="object-position: 70% center" />
@@ -76,48 +218,114 @@
             </button>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
     <div class="slideshow-pagination position-left-center type2"></div>
     <a href="#section-grid-banner" class="slideshow-scroll d-none d-xxl-block position-absolute end-0 bottom-3 text_dash text-uppercase fw-medium">Scroll</a>
   </section>
 
+  <style>
+    .offer-banner {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+    }
+  </style>
+
+
+  <section class="image-banner custom" style="background-color: #fdbd26;">
+    <div class="image-banner__content container py-3">
+      <div class="offer-banner">
+        <h3 class="text-white fw-bold">Explore the latest discounts and promotions. Shop now for unbeatable deals! </h3>
+        <button class="btn btn-outline-primary border-0 fs-base text-uppercase fw-medium btn-55">
+          <span class="text_dash_half">Shop Now</span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .shop_by_cat .content_abs.text-center {
+      width: 100%;
+    }
+
+    .shop_by_cat .content_abs.text-center p {
+      text-transform: uppercase !important;
+      margin: 0 auto;
+    }
+  </style>
+
+
+
   <div class="mb-5 pb-2 pt-1"></div>
 
   <section class="grid-banner container mb-3" id="section-grid-banner">
-    <div class="row">
-      <div class="col-lg-4">
-        <div class="grid-banner__item position-relative mb-3">
-          <img loading="lazy" class="w-100 h-auto" src="./images/home/demo2/grid_banner_1.jpg" width="450" height="450" alt="" />
-          <div class="content_abs content_center text-center">
-            <h3 class="text-uppercase fw-bold mb-1">New</h3>
-            <h3 class="text-uppercase fw-bold mb-1">Horizons</h3>
-            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
+    <h2 class="section-title text-uppercase fw-bold text-center mb-3 pb-xl-2 mb-xl-4">
+      Shop by category
+    </h2>
+
+    <div class="row shop_by_cat">
+      <div class="col-lg-2">
+        <div class="grid-banner__item position-relative custom mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/category/category-1.webp" width="450" height="450" alt="" />
+          <div class="content_abs text-center ">
+            <p>
+              <b>Hydroponic Accessories</b>
+            </p>
           </div>
         </div>
       </div>
-      <div class="col-lg-4">
-        <div class="grid-banner__item position-relative mb-3">
-          <img loading="lazy" class="w-100 h-auto" src="./images/home/demo2/grid_banner_2.jpg" width="450" height="450" alt="" />
-          <div class="content_abs content_center text-center">
-            <h3 class="text-uppercase fw-bold mb-1">Summer</h3>
-            <h3 class="text-uppercase fw-bold mb-1">Hats</h3>
-            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
+      <div class="col-lg-2">
+        <div class="grid-banner__item position-relative custom mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/category/category-2.webp" width="450" height="450" alt="" />
+          <div class="content_abs text-center ">
+            <p>
+              <b>Hydroponic Growing Systems</b>
+            </p>
           </div>
+
         </div>
       </div>
-      <div class="col-lg-4">
-        <div class="grid-banner__item position-relative mb-3">
-          <img loading="lazy" class="w-100 h-auto" src="./images/home/demo2/grid_banner_3.jpg" width="450" height="450" alt="" />
-          <div class="content_abs content_center text-center">
-            <p class="text-white mb-1">Free delivery for Uomo members</p>
-            <h3 class="text-uppercase fw-bold text-white mb-1">
-              Promotions Up
-            </h3>
-            <h3 class="text-uppercase fw-bold text-white mb-1">
-              To 10% Off
-            </h3>
-            <a href="#" class="btn-link default-underline text-uppercase text-white fw-medium">See More</a>
+      <div class="col-lg-2">
+        <div class="grid-banner__item position-relative custom mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/category/category-3.webp" width="450" height="450" alt="" />
+          <div class="content_abs text-center ">
+            <p>
+              <b>Measuring Instruments</b>
+            </p>
+          </div>
+
+        </div>
+      </div>
+      <div class="col-lg-2">
+        <div class="grid-banner__item position-relative custom mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/category/category-4.avif" width="450" height="450" alt="" />
+          <div class="content_abs text-center ">
+            <p>
+              <b>Agriculture Product</b>
+            </p>
+          </div>
+
+        </div>
+      </div>
+      <div class="col-lg-2">
+        <div class="grid-banner__item position-relative custom mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/category/category-5.webp" width="450" height="450" alt="" />
+          <div class="content_abs text-center ">
+            <p>
+              <b>Agricultural Tray</b>
+            </p>
+          </div>
+
+        </div>
+      </div>
+      <div class="col-lg-2">
+        <div class="grid-banner__item position-relative custom mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/category/category-6.png" width="450" height="450" alt="" />
+          <div class="content_abs text-center ">
+            <p>
+              <b>Soilless Farming</b>
+            </p>
           </div>
         </div>
       </div>
@@ -126,11 +334,11 @@
 
 
   <!-- START -->
-  <!-- <section class="grid-banner container mb-3" id="section-grid-banner">
+  <section class="grid-banner container mb-3" id="section-grid-banner">
     <div class="row">
       <div class="col-lg-4">
 
-        <div class="noo-atributes">
+        <!-- <div class="noo-atributes">
           <img width="494" height="618" src="images/image-01.png" alt="" />
           <div class="noo-atributes-item">
             <div class="noo-atributes-hover">
@@ -171,10 +379,11 @@
               <img width="53" height="53" src="images/organicfood-3.png" alt="" />
             </span>
           </div>
-        </div>
+        </div> -->
+
       </div>
     </div>
-  </section> -->
+  </section>
   <!-- END -->
 
   <div class="mb-1 pb-4 mb-xl-5 pb-xl-5"></div>
@@ -1449,9 +1658,9 @@
   <div class="mb-1 pb-4"></div>
 
   <section class="category-carousel container">
-    <h2 class="section-title text-uppercase fw-bold text-center mb-3 pb-xl-2 mb-xl-4">
+    <!-- <h2 class="section-title text-uppercase fw-bold text-center mb-3 pb-xl-2 mb-xl-4">
       Shop by category
-    </h2>
+    </h2> -->
 
     <div class="position-relative">
       <div class="swiper-container js-swiper-slider" data-settings='{
@@ -1989,7 +2198,57 @@
     </div>
   </section>
 
+
+
   <div class="mb-4 pb-4 mb-xl-4 mt-xl-3 pt-xl-3 pb-xl-4"></div>
+
+  <section class="grid-banner container mb-3" id="section-grid-banner">
+    <h2 class="section-title text-uppercase fw-bold text-center mb-3 pb-xl-2 mb-xl-4">
+      Offers &amp; Promotions
+    </h2>
+
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="grid-banner__item position-relative mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/home/demo2/grid_banner_1.jpg" width="450" height="450" alt="" />
+          <div class="content_abs content_center text-center">
+            <h3 class="text-uppercase fw-bold mb-1">New</h3>
+            <h3 class="text-uppercase fw-bold mb-1">Horizons</h3>
+            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="grid-banner__item position-relative mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/home/demo2/grid_banner_2.jpg" width="450" height="450" alt="" />
+          <div class="content_abs content_center text-center">
+            <h3 class="text-uppercase fw-bold mb-1">Summer</h3>
+            <h3 class="text-uppercase fw-bold mb-1">Hats</h3>
+            <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="grid-banner__item position-relative mb-3">
+          <img loading="lazy" class="w-100 h-auto" src="./images/home/demo2/grid_banner_3.jpg" width="450" height="450" alt="" />
+          <div class="content_abs content_center text-center">
+            <p class="text-white mb-1">Free delivery for Uomo members</p>
+            <h3 class="text-uppercase fw-bold text-white mb-1">
+              Promotions Up
+            </h3>
+            <h3 class="text-uppercase fw-bold text-white mb-1">
+              To 10% Off
+            </h3>
+            <a href="#" class="btn-link default-underline text-uppercase text-white fw-medium">See More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="mb-4 pb-4 mb-xl-4 mt-xl-3 pt-xl-3 pb-xl-4"></div>
+
+
 
   <section class="blog-carousel container">
     <h2 class="section-title text-uppercase fw-bold text-center mb-3 pb-xl-2 mb-xl-4">
@@ -2943,7 +3202,7 @@
   </div>
 </div>
 
-<div class="modal fade" id="newsletterPopup" tabindex="-1" aria-hidden="true">
+<!-- <div class="modal fade" id="newsletterPopup" tabindex="-1" aria-hidden="true">
   <div class="modal-dialog newsletter-popup modal-dialog-centered">
     <div class="modal-content">
       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -2969,7 +3228,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div id="scrollTop" class="visually-hidden end-0"></div>
 
